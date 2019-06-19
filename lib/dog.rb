@@ -20,6 +20,6 @@ class Dog
     @breed = breed
   end
 
-  snoopy = Dog.new
-  snoopy.breed = "Mutt"
+  
+  Dog.breed = "Mutt"
 end
