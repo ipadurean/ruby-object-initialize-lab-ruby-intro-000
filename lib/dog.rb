@@ -13,10 +13,13 @@ class Dog
   end
 
   def breed=(breed)
-    @breed = Mutt
+    @breed = breed
   end
 
   def breed
-    @breed = Mutt
+    @breed = breed
   end
+
+  snoopy = Dog.new
+  snoopy.breed = ("Mutt")
 end
