@@ -19,7 +19,7 @@ class Dog
   def breed
     @breed
   end
-lassie = Dog.new(name, "Mutt")
+
 
 
 end
