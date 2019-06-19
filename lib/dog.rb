@@ -20,6 +20,6 @@ class Dog
     @breed = breed
   end
 
-  
-  Dog.breed = "Mutt"
+
+
 end
